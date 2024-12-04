@@ -1,0 +1,2 @@
+This project focuses on cleaning and transforming data to ensure consistency and accuracy. The FIFA dataset provides a rich set of attributes about players but contains several inconsistencies in data formats. This includes non-standard formats in value columns, varied height and weight measurements, special characters, and mixed units that required cleaning. These inconsistencies could hinder analysis and need to be standardized to improve usability.
+Therefore, the cleaning process focused on transforming the data to a standard format suitable for effective analysis.
